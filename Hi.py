@@ -1,2 +1,2 @@
 print("Wow, you really are reading that!")
-print("Well... That was unexpected.)
+print("Well... That was unexpected.")
