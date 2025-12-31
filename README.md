@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GregK6
 - 👀 I’m interested in Aviation and Astrology
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a pro at fixing printer setups when they act up. 💀
+- ⚡ Fun fact: I'm a pro at fixing printer setups when they act up
